@@ -1,5 +1,5 @@
 Class a{
-
+Int A,B,C;
 Public static void main(String []args{
 A = 13;
 B = 15;
