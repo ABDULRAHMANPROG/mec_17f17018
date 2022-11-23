@@ -1,0 +1,10 @@
+Class a{
+
+Public static void main(String []args{
+A = 13;
+B = 15;
+C = A+B;
+
+System.out.println("total is ="+c);
+}
+}
